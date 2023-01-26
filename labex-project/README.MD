@@ -23,7 +23,7 @@ Projeto desenvolvido ao longo do curso da Labenu.
 
 <a href="http://left-hand.surge.sh/">labex.surge.sh</a>
 
-- Login para acesso: 
+:robot: Login para acesso: 
 
 email: teste@email.com  
 senha: 123456
