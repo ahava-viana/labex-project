@@ -2,7 +2,8 @@
 
 # Sobre o Projeto 
 
-O projeto consiste na integração entre o React e a API disponibilizada. O projeto simula um site de inscrição e cadastro de viagens espaciais. Onde é possível tanto um usuário sem cadastro navegar, quanto um cadastrado que será o administrador. Este último pode aprovar e reprovar candidatos nas viagens e criar novas viagens. 
+O projeto consiste na integração entre o React e a API disponibilizada. O projeto simula um site de inscrição e cadastro de viagens espaciais. Onde é possível tanto um usuário sem cadastro navegar, quanto um cadastrado que será o administrador. Este último pode aprovar e reprovar candidatos nas viagens e criar novas viagens.
+Projeto desenvolvido ao longo do curso da Labenu. 
 
 # O que Funciona
 
