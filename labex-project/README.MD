@@ -1,18 +1,16 @@
-# Projeto LabeX
+# <h1 align='center'> Projeto LabeX </h1>
 
-# Sobre o Projeto 
-
+## 💻 Sobre
 O projeto consiste na integração entre o React e a API disponibilizada. O projeto simula um site de inscrição e cadastro de viagens espaciais. Onde é possível tanto um usuário sem cadastro navegar, quanto um cadastrado que será o administrador. Este último pode aprovar e reprovar candidatos nas viagens e criar novas viagens.
 Projeto desenvolvido ao longo do curso da Labenu. 
 
-# O que Funciona
-
+## :dart: O que funciona
 - Formulários 
 - Rotas 
 - Botões
 - Todas as funcionalidades
 
-# Tecnologias Utilizadas
+## :test_tube: Tecnologias Utilizadas
 
 - Javascript 
 - React.JS
@@ -21,20 +19,30 @@ Projeto desenvolvido ao longo do curso da Labenu.
 - react-router-dom
 - material-ui
 
-# Link do surge
+## 🚀 Link do Surge
 
-- impossible-blade.surge.sh
+<a href="http://left-hand.surge.sh/">labex.surge.sh</a>
 
 - Login para acesso: 
 
 email: teste@email.com  
 senha: 123456
 
-# Desenvolvido por 
+## :nerd_face: Feito por
 
-- Amanda Viana Fajardo
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/ahava-viana">
+    <img src="https://avatars.githubusercontent.com/u/98184031?v=4" width="100px" alt="Imagem do perfil"/>
+    <br/> 
 
-# Imagens do Projeto ![FireShot Capture 003 - Vite App - localhost](https://user-images.githubusercontent.com/98184031/214878226-5b378661-ce03-4b39-af7f-d4e566dd5113.png)
+    Amanda Viana Fajardo
+
+</table>
+
+## :framed_picture: Imagens 
+
+![FireShot Capture 003 - Vite App - localhost](https://user-images.githubusercontent.com/98184031/214878226-5b378661-ce03-4b39-af7f-d4e566dd5113.png)
 ![FireShot Capture 004 - Vite App - localhost](https://user-images.githubusercontent.com/98184031/214878303-e6375030-42d1-4c38-a32e-503bf4f95c58.png)
 ![FireShot Capture 005 - Vite App - localhost](https://user-images.githubusercontent.com/98184031/214878314-ce08353b-ae8c-41bd-8fa2-838c9f58bbca.png)
 ![FireShot Capture 006 - Vite App - localhost](https://user-images.githubusercontent.com/98184031/214878317-a30221b1-d1bc-4914-bb41-3f3a4ebab76b.png)
