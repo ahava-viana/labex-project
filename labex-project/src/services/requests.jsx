@@ -14,8 +14,12 @@ export const sendApplication = (body, tripId, clear) => {
 export const login = (body, navigate) => {
     axios.post(`${BASE_URL}/login`, body)
         .then((res) => {
+            console.log("passo1")
             localStorage.setItem("token", res.data.token)
+            console.log("passo2")
+            alert("Usuário logado!")
             goToAdminHomePage(navigate)
+            console.log("entrei aqui")
         })
         .catch((err) => alert(err.response.data.message))
 }

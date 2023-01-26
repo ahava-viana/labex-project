@@ -16,7 +16,7 @@ const LoginPage = () => {
 
   const onClickLogin = (e) => {
     e.preventDefault();
-    login(form, navigate);
+    login(form,  navigate);
   };
 
   return (
@@ -46,7 +46,9 @@ const LoginPage = () => {
           required
         />
         <ButtonsContainer>
-          <Button color="primary"
+          <Button 
+          type="submit"
+          color="primary"
               size="large"
               variant="contained"
               margin="normal" >Entrar</Button >
